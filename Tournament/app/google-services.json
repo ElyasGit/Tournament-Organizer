@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "76790263740",
+    "firebase_url": "https://tournament-organizer-77534.firebaseio.com",
+    "project_id": "tournament-organizer-77534",
+    "storage_bucket": "tournament-organizer-77534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76790263740:android:fbd6923627e564139cc5b9",
+        "android_client_info": {
+          "package_name": "com.example.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76790263740-pruth5suc3dtlustcnf5b9atkt6asq6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tournament",
+            "certificate_hash": "f6b009af2ae964b41d6f5594fe8b42ce6e7ea5e8"
+          }
+        },
+        {
+          "client_id": "76790263740-d61meh3vdo6if8c5stc0uf6mat7ttkf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_GZv2lngUvI9Ohj6NdTHcu_u2XyJtzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76790263740-d61meh3vdo6if8c5stc0uf6mat7ttkf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76790263740-0f7r7cussoimp01dkgkfcbg75l1h6uqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "adham.TournamentO"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76790263740:android:675d63064d7f6ca69cc5b9",
+        "android_client_info": {
+          "package_name": "com.example.tournamentorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76790263740-dsrv6ovpleo5m2q5mkqsrmjt6hq723qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tournamentorganizer",
+            "certificate_hash": "f6b009af2ae964b41d6f5594fe8b42ce6e7ea5e8"
+          }
+        },
+        {
+          "client_id": "76790263740-d61meh3vdo6if8c5stc0uf6mat7ttkf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_GZv2lngUvI9Ohj6NdTHcu_u2XyJtzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76790263740-d61meh3vdo6if8c5stc0uf6mat7ttkf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76790263740-0f7r7cussoimp01dkgkfcbg75l1h6uqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "adham.TournamentO"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

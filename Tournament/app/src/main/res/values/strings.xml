@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tournament</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="game">Game</string>
+    <string name="max_players">Maximum Number of Players</string>
+    <string name="tournament_name">Tournament Name</string>
+    <string name="privatet">Private</string>
+    <string name="publict">Public</string>
+    <string name="status">Status</string>
+    <string name="game_mode">Game Mode</string>
+    <string name="single_mode">Single-eliminations</string>
+    <string name="points_mode">Points</string>
+    <string name="create_tournament">CREATE TOURNAMENT</string>
+
+</resources>
